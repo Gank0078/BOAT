@@ -1,2 +1,3 @@
 # BOAT
-This is PyTorch implementation of "Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning".
+This is PyTorch implementation of "Boosting Consistency in Dual Training for Long-Tailed Semi-Supervised Learning".
+Coming soon.
