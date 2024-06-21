@@ -1,6 +1,6 @@
 # BOAT
 
-This is PyTorch implementation of "Boosting Consistency in Dual Training for Long-Tailed Semi-Supervised Learning". Our conference paper published in CVPR 2023 is available at [ACR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf).
+This is PyTorch implementation of [Boosting Consistency in Dual Training for Long-Tailed Semi-Supervised Learning](https://arxiv.org/pdf/2406.13187). Our conference paper published in CVPR 2023 is available at [ACR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Towards_Realistic_Long-Tailed_Semi-Supervised_Learning_Consistency_Is_All_You_Need_CVPR_2023_paper.pdf).
 
 ## Abstract
 
