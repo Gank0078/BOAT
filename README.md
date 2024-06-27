@@ -59,9 +59,16 @@ python train.py --dataset cifar100 --num-max 50 --num-max-u 400 --arch wideresne
 Our code of BOAT is based on the implementation of FixMatch. We thank the authors of the [FixMatch](https://github.com/kekmodel/FixMatch-pytorch) for making their code available to the public.
 
 ## Citation
-
+For journal version: 
+```
+@article{gan2024boosting,
+  title={Boosting Consistency in Dual Training for Long-Tailed Semi-Supervised Learning},
+  author={Gan, Kai and Wei, Tong and Zhang, Min-Ling},
+  journal={arXiv preprint arXiv:2406.13187},
+  year={2024}
+}
+```
 For conference version: 
-
 ```
 @InProceedings{Wei_2023_CVPR,
     author    = {Wei, Tong and Gan, Kai},
